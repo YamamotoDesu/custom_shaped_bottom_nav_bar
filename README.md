@@ -109,3 +109,5 @@ class BNBCustomPainter extends CustomPainter {
 
 <img width="376" alt="iPhone_12_Pro" src="https://github.com/YamamotoDesu/custom_shaped_bottom_nav_bar/assets/47273077/118acdd4-c10c-4577-be8f-bbace1d40070">
 
+<img width="376" alt="iPhone_12_Pro" src="https://github.com/YamamotoDesu/custom_shaped_bottom_nav_bar/assets/47273077/38124ab4-e391-4db9-b24a-594a3d94ed8f">
+
